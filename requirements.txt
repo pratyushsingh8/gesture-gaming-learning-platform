@@ -1,4 +1,6 @@
-Flask==2.2.5
+
+Flask==2.3.3
+Werkzeug==2.3.7
 gunicorn==20.1.0
 opencv-python-headless==4.9.0.80
 numpy==1.26.4

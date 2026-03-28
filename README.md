@@ -1,7 +1,7 @@
-# Gesture Learning Platform 🧠✋
+# Gesture Gaming & Learning Platform 🧠✋
 
-A Flask-based learning platform for children with autism.  
-It uses **MediaPipe** and **TensorFlow** to recognize hand gestures and provides interactive learning activities such as **Emotion Quiz** and **Face Matching Game**.
+A Flask-based gaming & learning platform for children with autism.  
+It uses **MediaPipe** and **TensorFlow** to recognize hand gestures and provides interactive learning activities/games such as **Emotion Quiz** and **Face Matching Game**.
 
 ---
 
